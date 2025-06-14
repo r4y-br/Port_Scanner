@@ -29,6 +29,7 @@ Run the script in your terminal or command prompt:
 
 ```bash
 python port_scanner.py
+```
 You will be prompted to enter:
 
 Target IP address (e.g., 192.168.1.151)
